@@ -4,367 +4,340 @@ Study questions; not official assessments. Marks are for self-checking.
 
 ## Practice
 
-### Identifying arguments
+### Premises, conclusions, and explanations
 
 8 practice marks
 
-Analyze these original examples: (A) 'The lights are on, so someone is home.' (B) Everyone agrees Lee's hair is wet; Lee says, 'It is wet because it rained.' (C) 'I'm hungry. Let's make dinner.' Identify the premises and conclusions where present, distinguish explanation from argument, and say whether A guarantees its conclusion.
+Analyze three statements: (A) “The lights are on, so someone is home.” (B) “I'm hungry; let's make dinner.” (C) In response to a question about already-agreed wet hair: “My hair is wet because it rained.” Identify the premise and conclusion in A and B. Explain why B can be an argument without an explicit inference indicator and why C functions differently.
 
 Answer requirements:
 
-- Use the stated conversational context.
-- Do not assume that an indicator word alone establishes an argument.
+- Treat C in the context specified; do not classify by the word because alone.
 
 <details><summary>Hints</summary>
 
-Ask whether the speaker is establishing a conclusion or explaining an accepted fact.
-
-An inference may be communicated without 'therefore'.
+Ask which claim is being supported and which event is already accepted.
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-A offers the lights being on as its premise and someone being home as its conclusion. It does not guarantee the conclusion: lights may remain on in an empty house. B is a causal explanation of accepted wetness rather than an attempt to establish that Lee's hair is wet. C uses hunger as a premise supporting the practical conclusion that dinner should be made; the inference is implicit.
+A: the premise is that the lights are on; the conclusion is that someone is home. B: the premise is hunger; the practical conclusion is that we should make dinner. Context makes hunger a reason for making dinner even without therefore or since. C explains the cause of accepted wet hair rather than supplying evidence to establish that the hair is wet. Neither identifying A nor identifying B establishes that its conclusion is guaranteed.
 
-- A: identifies premise (1) and conclusion (1).
-- A: denies guarantee (1) and gives a compatible alternative such as an empty lit house (1).
-- B: identifies causal explanation (1) and explains the role of already accepted wetness (1).
-- C: identifies hunger as premise (1) and making dinner as implicitly supported conclusion (1).
+- 2 marks: A's premise and conclusion, 1 each.
+- 2 marks: B's premise and conclusion, 1 each.
+- 2 marks: explains B's implicit supporting relationship, not merely missing indicator vocabulary.
+- 2 marks: explains C through the already-accepted fact versus belief-support distinction.
 
 </details>
 
-### Validity and counterexamples
+### Validity and fallacies
 
 10 practice marks
 
-Classify each argument as deductively valid or invalid: (1) All dogs are cute; Sam is a dog; therefore Sam is cute. (2) All dogs are cute; Sam is not cute; therefore Sam is not a dog. (3) All dogs are cute; Sam is cute; therefore Sam is a dog. (4) All dogs are cute; Sam is not a dog; therefore Sam is not cute. Explain the valid cases and supply a counterexample for each invalid case.
+For each argument, determine whether it is deductively valid and explain why: (A) All dogs are cute; Sam is not cute; therefore Sam is not a dog. (B) All dogs are cute; Sam is cute; therefore Sam is a dog. (C) All dogs are cute; Sam is not a dog; therefore Sam is not cute. Give counterexamples for invalid arguments. Does uncertainty about whether all dogs are cute affect their validity?
 
 Answer requirements:
 
-- Counterexamples must keep every premise true.
-- Technical Latin names are optional.
+- A counterexample must make all premises true and the conclusion false.
+- Latin names are optional.
 
 <details><summary>Hints</summary>
 
-Could Sam be a cute human?
-
-Distinguish 'all dogs are cute' from 'only dogs are cute'.
+Consider a cute person named Sam.
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-1 is valid: Sam falls within the class whose members are all cute. 2 is valid: if Sam were a dog, Sam would be cute, contradicting the second premise. 3 is invalid: all dogs could be cute while Sam is a cute human. 4 is invalid for the same counterexample: Sam is not a dog but is cute. The counterexamples do not deny that dogs are cute; they show that cuteness need not be exclusive to dogs.
+A is valid: if Sam were a dog, the first premise would make Sam cute, contrary to the second premise. B is invalid: let every dog be cute and let Sam be a cute human. Its premises hold, but Sam is not a dog. C is invalid in that same scenario: Sam is not a dog but is cute. Doubting the actual truth of all dogs being cute does not affect validity; validity asks about the relation between premises and conclusion if the premises are true.
 
-- Correctly classifies all four arguments: 1 mark each (4).
-- Explains why 1 preserves truth (1) and why 2 preserves truth (1).
-- For 3, gives true-premise counterexample (1) with false conclusion (1).
-- For 4, gives true-premise counterexample (1) with false conclusion (1).
+- 2 marks: A correctly classified with reasoning.
+- 3 marks: B correctly classified with a true-premise/false-conclusion scenario.
+- 3 marks: C correctly classified with a true-premise/false-conclusion scenario.
+- 2 marks: distinguishes premise truth from validity.
 
 </details>
 
-### Toulmin reconstruction
+### Six-part argument reconstruction
 
 10 practice marks
 
-Reconstruct the lecture's heated-metals argument using all six Toulmin components. Then explain why 'I am very confident that most metals expand' and 'I am moderately confident that all metals expand' differ in two ways.
+Reconstruct the lecture's metals argument using all six Toulmin parts. Use the observation of ten metals on 100 occasions. Explain the difference between warrant and backing, and between qualifier and reservation.
 
 Answer requirements:
 
-- Treat the uniformity backing as proposed, not proven.
-- Label inferred modifiers as a reconstruction.
+- Treat the example as a simplified scientific generalization.
+- Do not invent a measured probability.
 
 <details><summary>Hints</summary>
 
-The warrant links observations to the general claim.
-
-The backing explains why that linking rule should be trusted.
+What licenses generalizing? What is supposed to justify that license?
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-Data: ten metals observed being heated on 100 occasions all expanded. Claim: metals expand when heated. Warrant: repeated observations across contexts license generalization. Proposed backing: nature is uniform, so future cases resemble past cases. Reconstructed qualifier: mostly confident, not certain. Reconstructed reservation: excluding possible extreme-gravity or electromagnetic circumstances. The first comparison statement has narrower scope ('most') but stronger confidence; the second has wider scope ('all') but weaker confidence. Neither dimension automatically determines the other.
+Data: ten metals were heated on 100 occasions and all expanded. Claim: metals expand when heated. Warrant: repeated observations across contexts license generalization. Backing: relevant natural patterns persist, so observed cases inform unobserved ones. Qualifier: high but not certain confidence. Reservation: extreme gravitational or electromagnetic conditions are excluded. The warrant links observations to the general claim; backing explains why to trust that link. The qualifier states confidence; the reservation limits the conditions to which the claim applies.
 
-- Accurate data, claim, warrant, backing, qualifier and reservation: 1 mark each (6).
-- Identifies most/all as a scope difference (1) and very/moderately as a confidence difference (1).
-- Explains that scope and confidence are independent dimensions (1).
-- Marks backing as proposed and reconstructed modifiers as interpretive rather than established facts (1).
+- 6 marks: one for each correctly reconstructed part.
+- 2 marks: explains warrant versus backing.
+- 2 marks: explains confidence versus scope.
 
 </details>
 
-### Hume: explanation versus justification
+### Reconstructing Hume's argument
 
-8 practice marks
+10 practice marks
 
-Explain why 'induction has worked before' does not answer Hume noncircularly. Distinguish his challenge from merely denying certainty. Does an evolutionary explanation of our reliance on induction resolve the challenge?
+Explain Hume's two challenges to justifying uniformity of nature. Identify the assumption needed to move from those two challenges to the overall conclusion that induction is unjustified. Explain why this conclusion is stronger than saying induction is uncertain.
 
 Answer requirements:
 
-- Do not attribute to Hume a demand that people stop using induction.
+- Present Hume's argument conditionally rather than claiming the lecture conclusively settled it.
 
 <details><summary>Hints</summary>
 
-What licenses the move from past success to future reliability?
-
-A belief's origin and its evidential support are different questions.
+Why does a past-success defense depend on what it is defending?
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-Past success supports future reliability only if past experience is a legitimate guide to unobserved cases—the principle being challenged. Using that inference to establish its own legitimacy is circular. Hume questions rational justification itself, not just a deductive guarantee. An evolutionary explanation may show why people developed the habit, but does not independently establish that its conclusions are justified. The lecture's Hume accepts that people will continue using induction.
+Deductive route: Hume takes a conceivable change in nature to be possible; uniformity is therefore not a logically necessary truth. Inductive route: using past uniformity to support future uniformity already assumes that past experience supports unobserved cases, so it is circular as a justification of that entitlement. If induction and deduction are the only possible justificatory routes, ruling out both rules out justification. If another route exists, that elimination is not exhaustive. The skeptical conclusion attacks rational support itself, not just a guarantee: replacing certainty with probably does not supply the missing noncircular justification.
 
-- Identifies the move from past success to future reliability (1) and its dependence on the disputed principle (1).
-- Explains circularity (2).
-- Distinguishes absence of justification from absence of certainty (2).
-- Separates evolutionary explanation from justification (1) and preserves continued practical use (1).
+- 3 marks: deductive route, including conceivability-to-possibility step.
+- 3 marks: inductive route with the circular dependence explained.
+- 2 marks: exhaustive-options assumption and its role.
+- 2 marks: justification distinguished from certainty.
 
 </details>
 
 ## Review quiz
 
-### Deductive validity
+### Conceptual multiple-choice self-test
 
-5 practice marks
+6 practice marks
 
-Original concept self-test, not a verified exam item. Which statement is correct? A. Validity guarantees that the premises are actually true. B. A valid argument guarantees its conclusion if its premises are true. C. A true conclusion makes any argument valid. D. Every nondeductive inference provides no support. Select one and briefly explain what is wrong with each other option.
+Original self-test, not a reproduced exam question. Which statement is correct? A. A deductively valid argument always has true premises. B. If an argument's conclusion is true, the argument is valid. C. A deductively valid argument cannot have all true premises and a false conclusion. D. Many confirming observations deductively establish any universal scientific claim. Select one and explain why each alternative is wrong.
 
 Answer requirements:
 
-- Choose one option.
-- No claim is made about actual exam point values or explanation requirements.
+- Choose exactly one option; include reasons.
 
 <details><summary>Hints</summary>
 
-Validity is a conditional truth-preserving relationship.
+Validity is a conditional guarantee.
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-B is correct: validity guarantees the conclusion on the condition that all premises are true; it does not establish that this condition actually holds. A confuses the truth of premises with the relationship between premises and conclusion. C ignores whether the conclusion follows: a true conclusion can be reached by bad reasoning. D ignores the possibility of evidential support without a deductive guarantee.
+C is correct: it states truth preservation. A confuses validity with actual premise truth; a valid argument may start from false premises. B confuses a true result with a reliable inferential relationship; invalid reasoning can happen to reach a true conclusion. D ignores unobserved counterinstances; repeated confirming observations do not deductively establish an unrestricted universal claim.
 
-- Selects B (1).
-- Explains its conditional guarantee (1).
-- Correctly rejects A (1), C (1), and D (1).
-
-</details>
-
-### Argument Analysis 1-style practice
-
-10 practice marks
-
-Original short analysis exercise using the lecture's displayed reading example: unusual iridium concentrations occur in a geological layer described as about 65 million years old; meteors are richer in such elements than Earth's surface; this supports a meteor impact around that time. Supply a compact six-part Toulmin analysis and identify the type of inference.
-
-Answer requirements:
-
-- This paraphrase is a study prompt, not a direct quotation suitable for the assignment's quotation requirement.
-- Mark reconstructed warrant, backing, and possible reservation as interpretive.
-- Do not claim the lecturer provided this completed analysis.
-
-<details><summary>Hints</summary>
-
-The argument infers a past cause from traces.
-
-How would rival explanations affect it?
+- 3 marks: selects C.
+- 1 mark: correctly rejects A.
+- 1 mark: correctly rejects B.
+- 1 mark: correctly rejects D.
 
 </details>
 
-<details><summary>Worked solution and rubric</summary>
-
-Claim: a meteor struck Earth around the layer's date. Data: the layer has unusually high concentrations of iridium and related elements, which are comparatively abundant in meteors. Reconstructed warrant: a hypothesis that best accounts for distinctive traces receives support from them. Reconstructed backing: the relevant compositional contrast gives a reason to connect those traces with meteoritic material. Qualifier: strong support, not certainty. Possible reconstructed reservation: an equally good or better explanation of the concentrations would weaken the inference. This is explanatory inference, not a generalization from repeatedly observed ancient impacts.
-
-- Claim identifies impact and approximate time (1).
-- Data include unusual concentrations (1) and meteors/Earth compositional contrast (1).
-- Provides an explanatory warrant (1) and distinct relevant backing (1).
-- Gives a suitable qualifier (1) and defensible reservation (1).
-- Identifies explanatory inference (1) and distinguishes it from enumerative induction (1).
-- Clearly labels interpretive reconstruction without attributing it as a completed lecture analysis (1).
-
-</details>
-
-### Hume's multi-step argument
-
-10 practice marks
-
-Original short-answer self-test. Reconstruct Hume's argument using two sub-conclusions, an intermediate conclusion, and the final conclusion. State the additional assumption required for the final step, and identify the branch vulnerable to an objection about imagination.
-
-Answer requirements:
-
-- Explain supporting reasons, not merely the names of the two branches.
-
-<details><summary>Hints</summary>
-
-Eliminating two options eliminates every option only under a further condition.
-
-</details>
-
-<details><summary>Worked solution and rubric</summary>
-
-First sub-conclusion: induction cannot be justified inductively, because that would use the observed-to-unobserved inference to justify itself. Second: it cannot be justified deductively, because Hume takes nonuniform nature to be conceivable and therefore possible. Intermediate conclusion: neither induction nor deduction justifies induction. With the assumption that these exhaust the ways of justification, the final conclusion is that induction is unjustified. The deductive branch can be challenged at the move from conceivability to possibility: a psychological capacity to imagine need not establish reality's possibilities.
-
-- States first sub-conclusion (1) and circularity reason (2).
-- States second sub-conclusion (1) and conceivability/possibility reason (2).
-- States intermediate conclusion (1).
-- States exhaustiveness assumption (1) and resulting final conclusion (1).
-- Locates the imagination objection in the deductive branch (1).
-
-</details>
-
-### Prediction, confirmation, and falsification
+### Qualifier and reservation
 
 8 practice marks
 
-Original concept-and-analysis self-test. Let H be a hypothesis and O its predicted observation. Compare (A) if H then O; O; therefore H, with (B) if H then O; not-O; therefore not-H. Which is deductively valid? How could an argument resembling A provide nondeductive support instead?
+Original concept self-test. Compare (A) “I am extremely confident that most metals expand when heated” and (B) “I am moderately confident that all metals expand when heated.” Identify what differs in confidence and scope. Where would an exclusion for extreme electromagnetic fields belong in Toulmin analysis? Why is “except when they don't” not an adequate replacement?
 
 Answer requirements:
 
-- For the formal comparison, accept the conditional as given.
-- Do not treat 'probably' alone as sufficient repair.
+- Do not treat most as a confidence percentage.
 
 <details><summary>Hints</summary>
 
-Can another hypothesis also explain O?
-
-An explanatory argument adds a comparative premise.
+One distinction concerns how widely the claim applies; the other concerns belief in it.
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-B is deductively valid: H would require O, so not-O excludes H. A is invalid affirming the consequent: another cause or hypothesis could produce O while H is false. A could become an explanatory support argument by adding that H is the best available explanation of O, with no equally good or better known rival, and weakening the conclusion to a supported but uncertain H. This is not a deductive guarantee.
+A has higher stated confidence but a narrower claim: most rather than all metals. B has lower stated confidence in a universal claim. Extreme electromagnetic fields belong under reservation because they specify excluded conditions. Except when they don't merely restates failure without identifying when it should be expected, so it adds no informative boundary to the claim.
 
-- Identifies B as valid (1) and explains why (1).
-- Identifies A as invalid (1) and explains an alternative route to O (1).
-- Adds the best-explanation comparative premise (2).
-- States a qualified conclusion (1) and explains that uncertainty remains (1).
+- 2 marks: compares confidence correctly.
+- 2 marks: compares most/all scope correctly.
+- 2 marks: identifies and explains reservation.
+- 2 marks: explains why the unrestricted escape clause is uninformative.
+
+</details>
+
+### Psychological explanation versus justification
+
+8 practice marks
+
+Original short argument-analysis self-test. A student says, “Evolution made us rely on induction, and we need it to survive, so Hume's problem is solved.” Identify the offered premises and conclusion. Assess whether the conclusion follows, and explain Hume's practical attitude toward induction as presented in lecture.
+
+Answer requirements:
+
+- Do not equate unjustified with immoral or unusable.
+
+<details><summary>Hints</summary>
+
+An account of the origin of a belief need not establish its truth or rational support.
+
+</details>
+
+<details><summary>Worked solution and rubric</summary>
+
+The premises are that evolution produced inductive habits and that induction is needed for survival. The conclusion is that Hume's justification problem has been solved. The premises may explain why humans use induction and why abandoning it would be difficult, but they do not independently establish that past experience rationally supports future cases. The proposed bridge from usefulness or natural origin to rational justification needs defense. Hume is presented as accepting that people will continue induction and not demanding that they stop; his challenge concerns justification, not moral blame.
+
+- 2 marks: identifies premises.
+- 1 mark: identifies conclusion.
+- 3 marks: explains the unsupported transition from origin/need to justification.
+- 2 marks: accurately states Hume's practical attitude.
+
+</details>
+
+### Explanatory argument analysis
+
+12 practice marks
+
+Original analysis self-test using the lecture's displayed meteor example. Unusually high iridium levels occur in a geological layer; meteors contain more iridium than material ordinarily found near Earth's surface. Reconstruct a concise six-part Toulmin analysis supporting a meteor impact around the age of that layer. Label inferred parts and explain why this is explanatory inference rather than induction by repeated observed impacts.
+
+Answer requirements:
+
+- Do not claim the passage excludes every competing source of iridium.
+- Your reconstruction is not a quotation or a verified instructor answer.
+
+<details><summary>Hints</summary>
+
+The proposed past event explains a present trace.
+
+</details>
+
+<details><summary>Worked solution and rubric</summary>
+
+Data: the layer has unusually high iridium, and meteors are comparatively rich in it. Claim: a meteor struck around the time the layer formed. Inferred warrant: the impact is a good explanation for a deposit containing unusually abundant meteor-associated elements. Inferred backing: a source's characteristic composition can provide evidence about a deposit's origin when a process can connect them. Qualifier: strong support, not certainty. Inferred reservation: a comparably good non-impact explanation or unreliable association of the deposit with that time would weaken the inference. The passage supports an event that explains geological evidence; it does not generalize from a collection of directly observed ancient impacts. Its rival-comparison assumptions remain open to assessment.
+
+- 6 marks: coherent six-part reconstruction, 1 each.
+- 2 marks: correctly identifies reconstructed rather than explicit elements.
+- 2 marks: explains the data-to-explanatory-event relationship.
+- 2 marks: distinguishes this inference from enumerating impacts and acknowledges alternative explanations.
 
 </details>
 
 ## Challenge quiz
 
-### Scope, confidence, and sample limitations
+### Confirmation, falsification, and rivals
 
 12 practice marks
 
-Original application: a researcher observes the same behaviour in 100 undergraduates from one university and concludes, 'This is certainly a law of thought for every human.' Reconstruct data, claim, warrant and backing; evaluate the leap in scope and certainty; propose a more defensible qualifier and reservation. Does increasing the sample to 1,000 students from that same university automatically solve the problem?
+A hypothetical theory H predicts observation O. A rival R also predicts O. Researchers observe O and announce that H is deductively proven. Later another test yields not-O, and they announce that H alone is deductively refuted. Evaluate both announcements. State the simple valid refutation pattern, then apply the reading's clarification about auxiliary assumptions.
 
 Answer requirements:
 
-- Do not invent study details or numerical confidence estimates.
-- Treat proposed backing as an assumption requiring evaluation.
+- Use only the logical and explanatory distinctions taught; no probability calculations are needed.
+- Distinguish the simple formal conditional from a real test involving extra assumptions.
 
 <details><summary>Hints</summary>
 
-A larger count need not create a more varied sample.
-
-Distinguish the size of the target population from confidence in the result.
+What follows from H → O and O? What follows if it is actually H together with A that predicts O?
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-Data: the behaviour occurred in the 100 sampled undergraduates. Claim: the behaviour is a certain universal law of human thought. Warrant: consistent observations in this sample license generalization to all humans. Proposed backing: the sample captures relevant features shared across people and circumstances, with stable relations between those features and the behaviour. The supplied evidence does not establish that backing. The move from one university's students to every human expands scope dramatically; certainty also exceeds what these observations guarantee. A more defensible claim concerns comparable students under comparable tested conditions, qualified as provisionally supported. A reservation excludes untested populations or contexts from automatic application. Increasing the count within the same narrow population may add evidence but does not by itself establish representativeness, eliminate every exception, or create deductive certainty.
+The first announcement affirms the consequent: H → O and O do not entail H. R supplies an explicit rival capable of producing the same prediction. O might support H, but explanatory preference needs reasons why H is better than R; compatibility alone cannot provide them. The simple valid refutation is H → O; not-O; therefore not-H. If the real prediction instead requires H and auxiliary assumptions A, then not-O rules out the conjunction H-and-A, assuming the observation is reliable. It does not alone identify H rather than A as the failure. H alone is deductively refuted only when the needed conditional is secure and the negative observation accepted.
 
-- Accurate data (1), claim (1), and warrant (1).
-- Plausible backing (1) explicitly treated as unestablished (1).
-- Identifies unjustified scope expansion (2) and excessive certainty (1).
-- Provides a meaningful qualifier (1) and scope reservation (1).
-- Explains why a larger same-population sample does not automatically resolve scope (1) or certainty (1).
+- 3 marks: diagnoses confirmation as nondeductive and explains affirming the consequent.
+- 2 marks: explains the rival's role without claiming it proves H false.
+- 2 marks: states and explains simple modus tollens.
+- 3 marks: shows why auxiliaries change the directly refuted target to a conjunction.
+- 2 marks: states conditions for attributing failure specifically to H.
 
 </details>
 
-### Evaluating the explanatory response to Hume
+### Targeted criticism and conditional responses to Hume
 
 12 practice marks
 
-Reconstruct the proposal that uniformity is the best explanation of observed regularities. Identify precisely which part of the lecture's overall Hume analysis it challenges. Then evaluate the proposal using Al-Ghazali's alternative and the problem of unconsidered explanations. Distinguish it from simply citing induction's past success.
+Reconstruct the proposed explanatory defense of uniformity, then evaluate it against the lecture's Al-Ghazali alternative. Identify exactly which part of the main Toulmin reconstruction of Hume it challenges. Explain both what the proposal accomplishes and what remains to be justified.
 
 Answer requirements:
 
-- Do not assert that the lecture settled which explanation is best.
-- Do not assume divine intervention is impossible or automatically superior.
+- Do not declare either theological or nontheological explanation correct without argument.
+- Do not equate introducing a third option with proving it succeeds.
 
 <details><summary>Hints</summary>
 
-The response introduces a purported third kind of inference.
-
-Explaining regularity is different from counting regular cases.
+Separate defeating exhaustiveness from establishing the best explanation.
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-Data: nature has displayed regular patterns. Claim: nature is probably uniform. Warrant: the best available explanation of evidence deserves provisional acceptance. The needed comparative premise is that uniformity explains the regularities better than available rivals. Introducing explanatory inference challenges Hume's backing that only induction and deduction can justify a belief. Unlike the circular appeal to past inductive success, this proposal aims to explain the regularities rather than merely project them. Al-Ghazali's alternative explains regularity through repeated divine choices that could change, so observed regularity does not uniquely select continuing uniformity. The response must justify its comparative judgment. Further, unconsidered hypotheses could be equally good or better; being best among known candidates does not establish being best possible. The proposal supplies a possible reply, not a deductive proof or a settled solution.
+The defense starts with observed regularities, proposes that uniform nature best explains them, and concludes that nature is probably uniform. It targets Hume's backing that induction and deduction are the only justificatory methods: explanatory inference would be another route. Al-Ghazali's alternative accounts for the regularity through repeated free divine decisions that could change. Since both can accommodate the observed past, the regularity alone does not establish which explanation is superior or that it will persist. The proposal blocks automatic elimination of all support if explanatory inference is distinct and legitimate. It still needs a defense of that legitimacy, reasons to prefer uniformity over rivals, and acknowledgement that unknown alternatives may exist.
 
-- Identifies observed regularities as data (1) and qualified uniformity as claim (1).
-- States explanatory warrant (1) and needed comparative premise (1).
-- Targets the two-kinds exhaustiveness backing precisely (2).
-- Distinguishes explanation from counting/projecting past successes (2).
-- Explains Al-Ghazali's alternative and its possible noncontinuation (2).
-- Explains unconsidered alternatives (1) and reaches an appropriately limited assessment (1).
+- 3 marks: reconstructs the explanatory defense with an explicit best-explanation bridge.
+- 2 marks: identifies and explains the targeted backing.
+- 3 marks: explains the rival and why past fit alone does not choose between them.
+- 2 marks: states the conditional achievement: defeating exhaustiveness.
+- 2 marks: identifies remaining justificatory and alternative-explanation burdens.
 
 </details>
 
-### Focused criticism of conceivability reasoning
+### Evidence and scientific background assumptions
 
 10 practice marks
 
-A student says: 'I agree that uniformity cannot be established just by deduction, but I reject the argument that whatever someone can imagine must be possible.' Is this inconsistent? Reconstruct the relevant Hume branch, identify exactly where this criticism lands, and explain how to conduct the disagreement cooperatively. Also explain why the farmer's chicken is not itself proof that natural laws can change.
+A researcher says, “The frog-leg energy-accounting example proves conservation of energy everywhere. If a later experiment reports missing energy, it must be wrong, so our principle can never face a genuine challenge.” Evaluate both claims using the lecture's distinction between evidence for a principle and a principle used as a background framework.
 
 Answer requirements:
 
-- Separate accepting a conclusion from accepting a particular argument for it.
-- Do not treat the chicken's fate as a change in physical laws.
+- Use the frog-leg account as the lecture's simplified illustration; do not supply an unsupported historical attribution.
+- Do not infer that checking experimental error makes all science irrational.
 
 <details><summary>Hints</summary>
 
-Which Toulmin component connects conceivability to possibility?
-
-Ordinary events can upset an expectation without changing nature's laws.
+A principle can reasonably guide error checking without being deductively proved by a single case.
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-There is no inconsistency. A person may accept a conclusion while rejecting one proposed justification. In this branch, the claim is that induction cannot be justified deductively; the data are that nonuniform nature is conceivable; the warrant is that conceivability establishes possibility; the backing proposes that imagination reveals conceptual structure. The criticism directly targets that warrant and may challenge its backing: imagination could reflect psychology rather than genuine possibility. A cooperative discussion can preserve agreement on the conclusion and perhaps the data while isolating that bridge for examination. The chicken's reliable feeding history ends when the farmer kills it, but both feeding and killing can occur under unchanged natural laws. It illustrates failed extrapolation, not a demonstration that laws change.
+The reported energy accounting shows agreement with ordinary chemical energy in the described system. It supports the mechanistic interpretation there but does not deductively establish conservation in every system, place, and time. Once conservation is a background principle, an apparent mismatch reasonably prompts checks of measurement, calculation, and setup: the established framework guides interpretation. However, that practice is not a logical proof that every apparent failure must be an error or that the principle can never be challenged. The lecture's point is the two-way relation between evidence and framework, not that either a single success proves a universal law or established laws are immune to all evidence.
 
-- Explains consistency of accepting a conclusion while rejecting its argument (2).
-- Identifies claim (1), data (1), warrant (1), and backing (1).
-- Locates criticism at warrant/backing with a psychological-versus-possibility explanation (1).
-- Describes focused agreement-preserving discussion (1).
-- Explains chicken's failed expectation (1) without inferring changed laws (1).
+- 3 marks: explains the limited evidential result of the example.
+- 2 marks: identifies the unjustified move to a universal proof.
+- 3 marks: explains background-guided error checking.
+- 2 marks: rejects guaranteed immunity without dismissing the role of background assumptions.
 
 </details>
 
-### Three logical traps in swan reasoning
+### Multi-step reconstruction and precise disagreement
 
-12 practice marks
+14 practice marks
 
-Evaluate three claims: (1) 'Every swan I inspected was white, so all swans must be white.' (2) 'One white swan proves that it is false that all swans are nonwhite, so it proves all swans are white.' (3) 'All swans are white except when they are not; this is an informative scientific generalization.' For each, identify the error and give a more defensible statement. Explain which observation would refute the unrestricted universal claim.
+Consider this reconstruction: P1: Any clearly conceivable situation is possible. P2: Nonuniform nature is clearly conceivable. C1: Nonuniform nature is possible. C2: Uniformity is not logically necessary. Separately, P3: An experience-based defense of uniformity presupposes its use. C3: Such a defense is circular. C4: Uniformity has no rational justification. Explain the links leading to C1–C3, identify the missing assumption required for C4, and describe two targeted objections that do not require rejecting everything in the argument.
 
 Answer requirements:
 
-- Keep universal claims distinct from claims about at least one case.
-- Do not reproduce the spoken swan-negation error as a valid equivalence.
+- Keep logical necessity distinct from actual truth.
+- Explain why each objection targets a particular step.
 
 <details><summary>Hints</summary>
 
-What does denying that every swan is nonwhite actually establish?
-
-An informative reservation states circumstances, not merely the existence of exceptions.
+C2 does not mean nature actually changes. Ask whether the listed justificatory routes exhaust all options.
 
 </details>
 
 <details><summary>Worked solution and rubric</summary>
 
-1 treats finite positive observations as a guarantee about all swans. A defensible statement is that the inspected swans were white and that these observations may support, but do not entail, a broader generalization. 2 correctly uses a white swan to refute 'all swans are nonwhite,' but that establishes only that at least one swan is white; it does not establish that every swan is white. 3 avoids falsity through an empty exception clause and supplies no useful conditions or prediction. A defensible statement reports the tested sample and conditions, or states substantive exceptions only when there is evidence for them. One genuine nonwhite swan refutes 'all swans are white,' while leaving true the report that the previously inspected sample was white.
+P1 and P2 yield C1 by applying the general conceivability rule to this case. C1 yields C2 because a logically necessary uniformity would exclude the possibility of nonuniformity; C2 does not assert that nature actually changes. P3 yields C3 because the proposed justification uses the very entitlement to project experience that it is supposed to establish. To infer C4, the reconstruction must also treat deductive and experience-based routes as exhaustive and take their failures here as eliminating justification by either route; it also relies on the requirement that rational justification not be circular. One targeted objection rejects P1: psychological conceivability need not track real possibility, while leaving the circularity criticism intact. Another accepts C2 and C3 but challenges exhaustiveness through explanatory inference. This second objection opens a possible route; it does not yet establish that route's success.
 
-- For 1, identifies lack of universal guarantee (2) and offers a qualified evidential statement (1).
-- For 2, identifies the valid refutation of all-nonwhite (1), gives the correct existential conclusion (1), and rejects equivalence with all-white (1).
-- For 3, explains why the exception is uninformative (2) and proposes evidence-based scope or sample wording (1).
-- Identifies a nonwhite swan as a refuting instance (2) and distinguishes this from falsifying the original sample report (1).
+- 3 marks: explains P1/P2 to C1 and C1 to C2.
+- 2 marks: distinguishes nonnecessity from actual nonuniformity.
+- 2 marks: explains P3 to C3 as a justificatory circle.
+- 3 marks: supplies exhaustive-routes and noncircular-justification commitments needed for C4.
+- 2 marks: precise conceivability objection with retained agreement.
+- 2 marks: precise third-route objection with its conditional limitation.
 
 </details>
