@@ -7,6 +7,7 @@ Unofficial study notes, conventions, worked examples, practice exercises and qui
 | Unit | Notes | Study materials |
 | --- | --- | --- |
 | week-02 | [Induction and deduction](units/week-02/notes.md) | [Review](units/week-02/review.md) · [Practice](units/week-02/practice.md) |
+| week-03 | [Scientific Revolution](units/week-03/notes.md) | [Review](units/week-03/review.md) · [Practice](units/week-03/practice.md) |
 
 ## Interactive reader and PDF export
 
@@ -16,6 +17,6 @@ Your edits stay in your browser. Use **Back up or restore my work** to keep a pe
 
 ## References and repository scope
 
-Reading references: Peter Godfrey-Smith, *Theory and Reality* (2003), Chapter 3; David Hume, *A Treatise of Human Nature*, Book I. Reading files and source texts are not distributed here.
+References: Consult official course materials for assigned readings. Reading files and source texts are not distributed here.
 
 This repository contains the public course-note editions only. Videos, audio, transcripts, raw source files, private processing data, and personal backups are excluded. No rights to third-party teaching materials are granted by this repository.
